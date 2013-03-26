@@ -1,6 +1,7 @@
 {
   "name": "mocha-promises-kit",
   "repo": "virtru-components/mocha-promises-kit",
+  "version": "0.1.0",
   "description": "A utility for testing with mocha and promises",
   "development": {
     "virtru-components/q": "*",
