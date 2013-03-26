@@ -1,0 +1,15 @@
+{
+  "name": "mocha-promises-kit",
+  "repo": "virtru-components/mocha-promises-kit",
+  "description": "A utility for testing with mocha and promises",
+  "development": {
+    "virtru-components/q": "*",
+    "virtru-components/chai": "*"
+  },
+  "scripts": [
+    "index.js"
+  ],
+  "testScripts": [
+    "test.js"
+  ]
+}
